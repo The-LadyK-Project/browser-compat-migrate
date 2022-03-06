@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Bryan Guner
+N;CHARSET=UTF-8:Bryan Guner;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;150 Henley Pl,P O Box 7718;Weehawken;NJ;07086-1303;USA
+EMAIL:bryan.guner.dev@gmail.com
+ORG;CHARSET=UTF-8:WebDevHub
+URL:https://bgoonz-blog.netlify.app/
+END:VCARD
